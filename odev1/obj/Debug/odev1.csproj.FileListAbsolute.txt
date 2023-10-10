@@ -1,0 +1,11 @@
+C:\Users\NAGAS0\source\repos\odev1\odev1\bin\Debug\odev1.exe.config
+C:\Users\NAGAS0\source\repos\odev1\odev1\bin\Debug\odev1.exe
+C:\Users\NAGAS0\source\repos\odev1\odev1\bin\Debug\odev1.pdb
+C:\Users\NAGAS0\source\repos\odev1\odev1\obj\Debug\odev1.csproj.AssemblyReference.cache
+C:\Users\NAGAS0\source\repos\odev1\odev1\obj\Debug\odev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\NAGAS0\source\repos\odev1\odev1\obj\Debug\odev1.Form1.resources
+C:\Users\NAGAS0\source\repos\odev1\odev1\obj\Debug\odev1.Properties.Resources.resources
+C:\Users\NAGAS0\source\repos\odev1\odev1\obj\Debug\odev1.csproj.GenerateResource.cache
+C:\Users\NAGAS0\source\repos\odev1\odev1\obj\Debug\odev1.csproj.CoreCompileInputs.cache
+C:\Users\NAGAS0\source\repos\odev1\odev1\obj\Debug\odev1.exe
+C:\Users\NAGAS0\source\repos\odev1\odev1\obj\Debug\odev1.pdb
